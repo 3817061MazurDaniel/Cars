@@ -1,0 +1,12 @@
+﻿Построение начато 14.05.2018 13:04:20.
+     1>Проект "C:\Users\mazur\Desktop\Cars\Lib\Lib.vcxproj" в узле 2 (целевые объекты Build).
+     1>Lib:
+         E:\Visual Studio\VC\bin\Lib.exe /OUT:"C:\Users\mazur\Desktop\Комплексные числа\Компл\Debug\Cars.lib" /NOLOGO Debug\AudiM.obj
+         Debug\FordM.obj
+         Debug\Metods.obj
+         Lib.vcxproj -> C:\Users\mazur\Desktop\Комплексные числа\Компл\Debug\Cars.lib
+     1>Построение проекта "C:\Users\mazur\Desktop\Cars\Lib\Lib.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.66
